@@ -20,7 +20,7 @@ requirements:
     - pip
   run:
     - python >=3.8
-    - ibis-framework >=2.0
+    - ibis-framework-core >=2.0
     - geopandas
     - pyarrow
     - pandas
